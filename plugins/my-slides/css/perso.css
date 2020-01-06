@@ -1,0 +1,13 @@
+.simple-slider .slider-slide {
+    text-align: center;
+    margin: 0 auto;
+    background-color: #dedede;
+}
+
+.simple-slider .slider-btn {
+    background-color: #36c;
+    color: white;
+    font-size: 1.4em;
+    text-align: center;
+    line-height: 2em;
+}
